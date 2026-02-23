@@ -1,0 +1,14 @@
+{
+  "name": "pokemeds",
+  "version": "0.1.0",
+  "description": "Pokemon or Medication? A quiz game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
